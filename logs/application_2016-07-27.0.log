@@ -1,0 +1,956 @@
+2016-07-27 23:28:10,193 243  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-27 23:28:10,316 366  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Wed Jul 27 23:28:10 CST 2016]; root of context hierarchy
+2016-07-27 23:28:10,699 749  [main] INFO  i.g.hengyunabc.douyuhelper.Manager - add67373
+2016-07-27 23:28:22,457 203  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-27 23:28:22,563 309  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Wed Jul 27 23:28:22 CST 2016]; root of context hierarchy
+2016-07-27 23:28:22,892 638  [main] INFO  i.g.hengyunabc.douyuhelper.Manager - add67373
+2016-07-27 23:28:42,248 19994 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:28:45,176 22922 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:28:51,176 28922 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:28:57,178 34924 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:03,180 40926 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:09,185 46931 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:15,178 52924 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:21,178 58924 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:27,181 64927 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:33,177 70923 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:39,181 76927 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:45,180 82926 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:51,181 88927 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:29:57,180 94926 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:30:03,182 100928 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:30:09,183 106929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:30:11,997 109743 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-27 23:30:11,997 109743 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3/67373rrNoSptC9Tv.flv?wsAuth=fbc08c9fa84f69e5d79ac008e4f34d79&token=web-9007408-67373-a4ac391f7a638b720fe018281235cfff&logo=0&expire=0
+2016-07-27 23:30:11,998 109744 [nioEventLoopGroup-3-1] INFO  i.g.hengyunabc.douyuhelper.Manager - roomStartString
+2016-07-27 23:30:13,849 111595 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, url:http://tc-tct.douyucdn.cn/dyliveflv3/67373rrNoSptC9Tv.flv?wsAuth=fbc08c9fa84f69e5d79ac008e4f34d79&token=web-9007408-67373-a4ac391f7a638b720fe018281235cfff&logo=0&expire=0
+2016-07-27 23:30:15,180 112926 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:15,925 113671 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-27 23:30:15,926 113672 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3/67373rrNoSptC9Tv.flv?wsAuth=26a42d3939977171ac0f799a6d465898&token=web-9007408-67373-39eba5e6ebbf97058ca295b869d8d430&logo=0&expire=0
+2016-07-27 23:30:15,926 113672 [nioEventLoopGroup-3-1] INFO  i.g.hengyunabc.douyuhelper.Manager - roomStartString
+2016-07-27 23:30:16,282 114028 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 200
+2016-07-27 23:30:16,297 114043 [pool-1-thread-1] INFO  com.dy.bulletscreen.msg.ToolSub - Sub:初始化字幕转储进程
+2016-07-27 23:30:16,297 114043 [pool-1-thread-1] INFO  com.dy.bulletscreen.msg.ToolSub - video\67373\2016-07-27^11-30-16.ass
+2016-07-27 23:30:18,183 115929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:21,183 118929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:21,303 119049 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:2m
+2016-07-27 23:30:24,180 121926 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:26,307 124053 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:6m
+2016-07-27 23:30:27,180 124926 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:30,181 127927 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:31,354 129100 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:9m
+2016-07-27 23:30:33,181 130927 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:36,181 133927 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:36,355 134101 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:13m
+2016-07-27 23:30:39,181 136927 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:41,355 139101 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:16m
+2016-07-27 23:30:42,181 139927 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:45,182 142928 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:46,355 144101 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:19m
+2016-07-27 23:30:48,182 145928 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:51,182 148928 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:51,419 149165 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:21m
+2016-07-27 23:30:54,182 151928 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:30:56,452 154198 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:23m
+2016-07-27 23:30:57,182 154928 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:00,183 157929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:01,452 159198 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:26m
+2016-07-27 23:31:03,183 160929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:06,183 163929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:06,465 164211 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:28m
+2016-07-27 23:31:09,183 166929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:11,466 169212 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:30m
+2016-07-27 23:31:12,183 169929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:15,183 172929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:16,495 174241 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:32m
+2016-07-27 23:31:18,184 175930 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:21,183 178929 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:21,497 179243 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:34m
+2016-07-27 23:31:24,184 181930 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:26,534 184280 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:37m
+2016-07-27 23:31:27,184 184930 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:30,185 187931 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:31,539 189285 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:39m
+2016-07-27 23:31:33,184 190930 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:36,186 193932 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:36,539 194285 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:41m
+2016-07-27 23:31:39,185 196931 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:41,540 199286 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:43m
+2016-07-27 23:31:42,186 199932 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:45,185 202931 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:46,541 204287 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:46m
+2016-07-27 23:31:48,186 205932 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:51,186 208932 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:51,550 209296 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:48m
+2016-07-27 23:31:54,186 211932 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:31:56,636 214382 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:50m
+2016-07-27 23:31:57,186 214932 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:00,186 217932 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:01,637 219383 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:52m
+2016-07-27 23:32:03,186 220932 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:06,187 223933 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:06,702 224448 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:55m
+2016-07-27 23:32:09,187 226933 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:11,739 229485 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:57m
+2016-07-27 23:32:12,187 229933 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:15,187 232933 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:16,782 234528 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:59m
+2016-07-27 23:32:18,188 235934 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:21,187 238933 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:21,794 239540 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:61m
+2016-07-27 23:32:24,188 241934 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:26,794 244540 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:64m
+2016-07-27 23:32:27,188 244934 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:30,188 247934 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:31,800 249546 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:66m
+2016-07-27 23:32:33,188 250934 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:36,189 253935 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:36,806 254552 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:68m
+2016-07-27 23:32:39,189 256935 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:41,811 259557 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:70m
+2016-07-27 23:32:42,189 259935 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:45,189 262935 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:46,844 264590 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:73m
+2016-07-27 23:32:48,189 265935 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:51,189 268935 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:51,860 269606 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:75m
+2016-07-27 23:32:54,190 271936 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:32:56,872 274618 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:77m
+2016-07-27 23:32:57,190 274936 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:00,190 277936 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:01,875 279621 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:79m
+2016-07-27 23:33:03,191 280937 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:06,191 283937 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:06,924 284670 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:81m
+2016-07-27 23:33:09,191 286937 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:11,924 289670 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:84m
+2016-07-27 23:33:12,191 289937 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:15,191 292937 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:16,924 294670 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:86m
+2016-07-27 23:33:18,191 295937 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:21,191 298937 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:21,925 299671 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:88m
+2016-07-27 23:33:24,191 301937 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:26,925 304671 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:90m
+2016-07-27 23:33:27,192 304938 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:30,192 307938 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:31,986 309732 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:93m
+2016-07-27 23:33:33,192 310938 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:36,192 313938 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:36,986 314732 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:95m
+2016-07-27 23:33:39,192 316938 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:41,986 319732 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:97m
+2016-07-27 23:33:42,192 319938 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:45,193 322939 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:46,989 324735 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:99m
+2016-07-27 23:33:48,193 325939 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:51,193 328939 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:52,010 329756 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:101m
+2016-07-27 23:33:54,193 331939 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:33:57,090 334836 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:104m
+2016-07-27 23:33:57,193 334939 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:00,194 337940 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:02,092 339838 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:106m
+2016-07-27 23:34:03,194 340940 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:06,194 343940 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:07,138 344884 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:108m
+2016-07-27 23:34:09,194 346940 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:12,139 349885 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:110m
+2016-07-27 23:34:12,195 349941 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:15,195 352941 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:17,139 354885 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:113m
+2016-07-27 23:34:18,195 355941 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:21,195 358941 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:22,139 359885 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:115m
+2016-07-27 23:34:24,195 361941 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:27,139 364885 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:117m
+2016-07-27 23:34:27,195 364941 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:30,195 367941 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:32,140 369886 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:119m
+2016-07-27 23:34:33,196 370942 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:36,196 373942 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:37,140 374886 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:122m
+2016-07-27 23:34:39,196 376942 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:42,140 379886 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:124m
+2016-07-27 23:34:42,196 379942 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:45,196 382942 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:47,140 384886 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:126m
+2016-07-27 23:34:48,197 385943 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:51,197 388943 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:52,140 389886 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:128m
+2016-07-27 23:34:54,197 391943 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:34:57,140 394886 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:130m
+2016-07-27 23:34:57,197 394943 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:00,197 397943 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:02,141 399887 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:133m
+2016-07-27 23:35:03,197 400943 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:06,198 403944 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:07,141 404887 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:135m
+2016-07-27 23:35:09,198 406944 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:12,141 409887 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:137m
+2016-07-27 23:35:12,198 409944 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:15,198 412944 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:17,141 414887 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:139m
+2016-07-27 23:35:18,198 415944 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:21,198 418944 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:22,141 419887 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:141m
+2016-07-27 23:35:24,199 421945 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:27,200 424946 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:27,244 424990 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:144m
+2016-07-27 23:35:30,199 427945 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:32,244 429990 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:146m
+2016-07-27 23:35:33,199 430945 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:36,199 433945 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:37,251 434997 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:148m
+2016-07-27 23:35:39,200 436946 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:42,200 439946 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:42,375 440121 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:150m
+2016-07-27 23:35:45,200 442946 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:47,455 445201 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:153m
+2016-07-27 23:35:48,201 445947 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:51,200 448946 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:52,465 450211 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:155m
+2016-07-27 23:35:54,201 451947 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:57,200 454946 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:35:57,471 455217 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:157m
+2016-07-27 23:36:00,201 457947 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:02,471 460217 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:159m
+2016-07-27 23:36:03,201 460947 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:06,201 463947 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:07,471 465217 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:161m
+2016-07-27 23:36:09,202 466948 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:12,202 469948 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:12,471 470217 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:164m
+2016-07-27 23:36:15,202 472948 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:17,482 475228 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:166m
+2016-07-27 23:36:18,202 475948 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:21,203 478949 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:22,486 480232 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:168m
+2016-07-27 23:36:24,203 481949 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:27,203 484949 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:27,486 485232 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:170m
+2016-07-27 23:36:30,203 487949 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:32,525 490271 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:173m
+2016-07-27 23:36:33,203 490949 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:36,203 493949 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:37,527 495273 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:175m
+2016-07-27 23:36:39,204 496950 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:42,204 499950 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:42,534 500280 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:177m
+2016-07-27 23:36:45,204 502950 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:47,542 505288 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:179m
+2016-07-27 23:36:48,204 505950 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:51,204 508950 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:52,544 510290 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:181m
+2016-07-27 23:36:54,204 511950 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:57,205 514951 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:36:57,656 515402 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:184m
+2016-07-27 23:37:00,205 517951 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:02,733 520479 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:186m
+2016-07-27 23:37:03,205 520951 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:06,205 523951 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:07,734 525480 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:188m
+2016-07-27 23:37:09,205 526951 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:12,205 529951 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:12,735 530481 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:190m
+2016-07-27 23:37:15,205 532951 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:17,735 535481 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:193m
+2016-07-27 23:37:18,206 535952 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:21,206 538952 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:22,737 540483 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:195m
+2016-07-27 23:37:24,206 541952 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:27,207 544953 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:27,739 545485 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:197m
+2016-07-27 23:37:30,206 547952 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:32,745 550491 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:199m
+2016-07-27 23:37:33,207 550953 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:36,207 553953 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:37,757 555503 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:202m
+2016-07-27 23:37:39,207 556953 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:42,207 559953 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:42,779 560525 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:204m
+2016-07-27 23:37:45,207 562953 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:47,783 565529 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:206m
+2016-07-27 23:37:48,208 565954 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:51,208 568954 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:52,783 570529 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:208m
+2016-07-27 23:37:54,208 571954 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:57,208 574954 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:37:57,785 575531 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:211m
+2016-07-27 23:38:00,209 577955 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:02,799 580545 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:213m
+2016-07-27 23:38:03,209 580955 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:06,209 583955 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:07,937 585683 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:215m
+2016-07-27 23:38:09,209 586955 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:12,209 589955 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:12,945 590691 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:217m
+2016-07-27 23:38:15,209 592955 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:17,951 595697 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:219m
+2016-07-27 23:38:18,209 595955 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:21,209 598955 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:22,959 600705 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:222m
+2016-07-27 23:38:24,210 601956 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:27,210 604956 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:27,962 605708 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:224m
+2016-07-27 23:38:30,211 607957 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:33,022 610768 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:226m
+2016-07-27 23:38:33,210 610956 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:36,210 613956 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:38,068 615814 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:228m
+2016-07-27 23:38:39,211 616957 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:42,211 619957 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:43,068 620814 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:231m
+2016-07-27 23:38:45,211 622957 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:48,079 625825 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:233m
+2016-07-27 23:38:48,211 625957 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:51,211 628957 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:53,098 630844 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:235m
+2016-07-27 23:38:54,212 631958 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:57,212 634958 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:38:58,098 635844 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:237m
+2016-07-27 23:39:00,212 637958 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:03,100 640846 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:240m
+2016-07-27 23:39:03,212 640958 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:06,212 643958 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:08,104 645850 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:242m
+2016-07-27 23:39:09,213 646959 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:12,212 649958 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:13,112 650858 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:244m
+2016-07-27 23:39:15,213 652959 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:18,117 655863 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:246m
+2016-07-27 23:39:18,213 655959 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:21,213 658959 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:23,251 660997 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:249m
+2016-07-27 23:39:24,213 661959 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:27,214 664960 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:28,258 666004 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:251m
+2016-07-27 23:39:30,214 667960 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:33,214 670960 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:33,305 671051 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:253m
+2016-07-27 23:39:36,214 673960 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:38,305 676051 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:255m
+2016-07-27 23:39:39,215 676961 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:42,215 679961 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:43,321 681067 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:257m
+2016-07-27 23:39:45,215 682961 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:48,215 685961 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:48,322 686068 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:260m
+2016-07-27 23:39:51,215 688961 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:53,578 691324 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:262m
+2016-07-27 23:39:54,215 691961 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:57,215 694961 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:39:58,703 696449 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:264m
+2016-07-27 23:40:00,215 697961 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:03,216 700962 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:03,705 701451 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:267m
+2016-07-27 23:40:06,216 703962 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:08,711 706457 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:269m
+2016-07-27 23:40:09,216 706962 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:12,216 709962 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:13,740 711486 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:271m
+2016-07-27 23:40:15,217 712963 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:18,217 715963 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:18,740 716486 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:273m
+2016-07-27 23:40:21,217 718963 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:23,742 721488 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:275m
+2016-07-27 23:40:24,217 721963 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:27,217 724963 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:28,777 726523 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:278m
+2016-07-27 23:40:30,217 727963 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:33,217 730963 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:33,891 731637 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:280m
+2016-07-27 23:40:36,218 733964 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:38,959 736705 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:282m
+2016-07-27 23:40:39,218 736964 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:42,218 739964 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:43,977 741723 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:284m
+2016-07-27 23:40:45,218 742964 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:48,219 745965 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:49,093 746839 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:287m
+2016-07-27 23:40:51,219 748965 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:54,100 751846 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:289m
+2016-07-27 23:40:54,219 751965 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:57,219 754965 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:40:59,101 756847 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:291m
+2016-07-27 23:41:00,219 757965 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:03,219 760965 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:04,101 761847 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:293m
+2016-07-27 23:41:06,220 763966 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:09,151 766897 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:295m
+2016-07-27 23:41:09,220 766966 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:12,220 769966 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:14,277 772023 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:298m
+2016-07-27 23:41:15,220 772966 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:18,220 775966 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:19,284 777030 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:300m
+2016-07-27 23:41:21,220 778966 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:24,221 781967 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:24,287 782033 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:302m
+2016-07-27 23:41:27,221 784967 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:29,294 787040 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:304m
+2016-07-27 23:41:30,221 787967 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:33,221 790967 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:34,338 792084 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:307m
+2016-07-27 23:41:36,221 793967 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:39,222 796968 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:39,348 797094 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:309m
+2016-07-27 23:41:42,222 799968 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:44,348 802094 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:311m
+2016-07-27 23:41:45,222 802968 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:48,222 805968 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:49,374 807120 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:313m
+2016-07-27 23:41:51,223 808969 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:54,223 811969 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:54,505 812251 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:316m
+2016-07-27 23:41:57,223 814969 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:41:59,575 817321 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:318m
+2016-07-27 23:42:00,223 817969 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:03,223 820969 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:04,581 822327 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:320m
+2016-07-27 23:42:06,223 823969 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:09,224 826970 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:09,588 827334 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:322m
+2016-07-27 23:42:12,224 829970 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:14,591 832337 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:325m
+2016-07-27 23:42:15,224 832970 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:18,224 835970 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:19,593 837339 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:327m
+2016-07-27 23:42:21,224 838970 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:24,224 841970 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:24,698 842444 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:329m
+2016-07-27 23:42:27,225 844971 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:29,754 847500 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:331m
+2016-07-27 23:42:30,225 847971 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:33,225 850971 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:34,754 852500 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:334m
+2016-07-27 23:42:36,225 853971 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:39,226 856972 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:39,757 857503 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:336m
+2016-07-27 23:42:42,225 859971 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:44,758 862504 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:338m
+2016-07-27 23:42:45,226 862972 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:48,226 865972 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:49,761 867507 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:340m
+2016-07-27 23:42:51,226 868972 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:54,226 871972 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:54,782 872528 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:343m
+2016-07-27 23:42:57,227 874973 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:42:59,787 877533 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:345m
+2016-07-27 23:43:00,227 877973 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:03,227 880973 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:04,996 882742 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:347m
+2016-07-27 23:43:06,227 883973 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:09,227 886973 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:10,124 887870 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:349m
+2016-07-27 23:43:12,227 889973 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:15,150 892896 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:351m
+2016-07-27 23:43:15,227 892973 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:18,228 895974 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:20,296 898042 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:354m
+2016-07-27 23:43:21,228 898974 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:24,228 901974 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:25,364 903110 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:356m
+2016-07-27 23:43:27,228 904974 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:30,228 907974 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:30,381 908127 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:358m
+2016-07-27 23:43:33,229 910975 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:35,400 913146 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:361m
+2016-07-27 23:43:36,229 913975 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:39,229 916975 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:40,400 918146 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:363m
+2016-07-27 23:43:42,229 919975 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:45,229 922975 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:45,540 923286 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:365m
+2016-07-27 23:43:48,229 925975 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:50,618 928364 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:367m
+2016-07-27 23:43:51,230 928976 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:54,230 931976 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:43:55,625 933371 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:370m
+2016-07-27 23:43:57,230 934976 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:00,230 937976 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:00,625 938371 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:372m
+2016-07-27 23:44:03,230 940976 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:05,626 943372 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:374m
+2016-07-27 23:44:06,231 943977 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:09,231 946977 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:10,632 948378 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:376m
+2016-07-27 23:44:12,231 949977 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:15,231 952977 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:15,634 953380 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:379m
+2016-07-27 23:44:18,231 955977 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:20,634 958380 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:381m
+2016-07-27 23:44:21,232 958978 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:24,232 961978 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:25,662 963408 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:383m
+2016-07-27 23:44:27,232 964978 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:30,232 967978 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:30,662 968408 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:385m
+2016-07-27 23:44:33,232 970978 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:35,789 973535 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:388m
+2016-07-27 23:44:36,233 973979 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:39,233 976979 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:40,790 978536 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:390m
+2016-07-27 23:44:42,233 979979 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:45,233 982979 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:45,790 983536 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:392m
+2016-07-27 23:44:48,233 985979 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:50,837 988583 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:394m
+2016-07-27 23:44:51,233 988979 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:54,234 991980 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:44:55,837 993583 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:396m
+2016-07-27 23:44:57,233 994979 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:00,234 997980 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:00,841 998587 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:399m
+2016-07-27 23:45:03,234 1000980 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:05,855 1003601 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:401m
+2016-07-27 23:45:06,234 1003980 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:09,234 1006980 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:10,859 1008605 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:403m
+2016-07-27 23:45:12,235 1009981 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:15,235 1012981 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:15,859 1013605 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:405m
+2016-07-27 23:45:18,235 1015981 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:20,987 1018733 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:408m
+2016-07-27 23:45:21,235 1018981 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:24,235 1021981 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:25,993 1023739 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:410m
+2016-07-27 23:45:27,235 1024981 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:30,236 1027982 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:31,054 1028800 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:412m
+2016-07-27 23:45:33,236 1030982 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:36,054 1033800 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:414m
+2016-07-27 23:45:36,236 1033982 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:39,237 1036983 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:41,172 1038918 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:417m
+2016-07-27 23:45:42,236 1039982 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:45,237 1042983 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:46,229 1043975 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:419m
+2016-07-27 23:45:48,237 1045983 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:51,237 1048983 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:51,240 1048986 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:421m
+2016-07-27 23:45:54,237 1051983 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:45:56,386 1054132 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:423m
+2016-07-27 23:45:57,237 1054983 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:00,238 1057984 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:01,466 1059212 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:426m
+2016-07-27 23:46:03,238 1060984 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:06,238 1063984 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:06,466 1064212 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:428m
+2016-07-27 23:46:09,238 1066984 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:11,555 1069301 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:430m
+2016-07-27 23:46:12,238 1069984 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:15,239 1072985 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:16,560 1074306 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:432m
+2016-07-27 23:46:18,239 1075985 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:21,239 1078985 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:21,564 1079310 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:434m
+2016-07-27 23:46:24,239 1081985 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:26,633 1084379 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:437m
+2016-07-27 23:46:27,239 1084985 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:30,239 1087985 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:31,634 1089380 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:439m
+2016-07-27 23:46:33,240 1090986 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:36,239 1093985 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:36,634 1094380 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:441m
+2016-07-27 23:46:39,240 1096986 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:41,656 1099402 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:443m
+2016-07-27 23:46:42,240 1099986 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:45,240 1102986 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:46,766 1104512 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:446m
+2016-07-27 23:46:48,240 1105986 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:51,241 1108987 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:51,801 1109547 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:448m
+2016-07-27 23:46:54,240 1111986 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:46:56,823 1114569 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:450m
+2016-07-27 23:46:57,241 1114987 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:00,241 1117987 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:01,824 1119570 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:452m
+2016-07-27 23:47:03,241 1120987 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:06,241 1123987 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:06,830 1124576 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:455m
+2016-07-27 23:47:09,242 1126988 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:11,830 1129576 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:457m
+2016-07-27 23:47:12,242 1129988 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:15,242 1132988 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:16,832 1134578 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:459m
+2016-07-27 23:47:18,242 1135988 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:21,243 1138989 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:21,832 1139578 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:461m
+2016-07-27 23:47:24,243 1141989 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:26,949 1144695 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:464m
+2016-07-27 23:47:27,243 1144989 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:30,243 1147989 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:31,979 1149725 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:466m
+2016-07-27 23:47:33,243 1150989 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:36,244 1153990 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:36,979 1154725 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:468m
+2016-07-27 23:47:39,243 1156989 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:41,979 1159725 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:470m
+2016-07-27 23:47:42,244 1159990 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:45,244 1162990 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:46,979 1164725 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:472m
+2016-07-27 23:47:48,244 1165990 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:51,244 1168990 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:52,035 1169781 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:475m
+2016-07-27 23:47:54,245 1171991 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:47:57,127 1174873 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:477m
+2016-07-27 23:47:57,245 1174991 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:00,245 1177991 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:02,127 1179873 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:479m
+2016-07-27 23:48:03,245 1180991 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:06,245 1183991 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:07,182 1184928 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:481m
+2016-07-27 23:48:09,246 1186992 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:12,201 1189947 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:484m
+2016-07-27 23:48:12,246 1189992 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:15,246 1192992 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:17,210 1194956 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:486m
+2016-07-27 23:48:18,246 1195992 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:21,246 1198992 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:22,219 1199965 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:488m
+2016-07-27 23:48:24,246 1201992 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:27,247 1204993 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:27,317 1205063 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:490m
+2016-07-27 23:48:30,248 1207994 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:32,319 1210065 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:492m
+2016-07-27 23:48:33,247 1210993 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:36,247 1213993 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:37,401 1215147 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:495m
+2016-07-27 23:48:39,247 1216993 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:42,248 1219994 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:42,401 1220147 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:497m
+2016-07-27 23:48:45,248 1222994 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:47,409 1225155 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:499m
+2016-07-27 23:48:48,248 1225994 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:51,248 1228994 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:52,526 1230272 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:501m
+2016-07-27 23:48:54,248 1231994 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:57,249 1234995 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:48:57,571 1235317 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:504m
+2016-07-27 23:49:00,248 1237994 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:02,573 1240319 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:506m
+2016-07-27 23:49:03,249 1240995 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:06,249 1243995 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:07,593 1245339 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:508m
+2016-07-27 23:49:09,249 1246995 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:12,249 1249995 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:12,595 1250341 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:510m
+2016-07-27 23:49:15,249 1252995 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:17,636 1255382 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:513m
+2016-07-27 23:49:18,250 1255996 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:21,250 1258996 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:22,748 1260494 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:515m
+2016-07-27 23:49:24,250 1261996 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:27,250 1264996 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:27,759 1265505 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:517m
+2016-07-27 23:49:30,251 1267997 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:32,760 1270506 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:519m
+2016-07-27 23:49:33,251 1270997 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:36,251 1273997 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:37,773 1275519 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:522m
+2016-07-27 23:49:39,251 1276997 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:42,252 1279998 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:42,824 1280570 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:524m
+2016-07-27 23:49:45,251 1282997 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:47,937 1285683 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:526m
+2016-07-27 23:49:48,252 1285998 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:51,252 1288998 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:52,937 1290683 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:528m
+2016-07-27 23:49:54,252 1291998 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:57,252 1294998 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:49:57,937 1295683 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:530m
+2016-07-27 23:50:00,252 1297998 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:02,938 1300684 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:533m
+2016-07-27 23:50:03,252 1300998 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:06,253 1303999 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:07,938 1305684 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:535m
+2016-07-27 23:50:09,253 1306999 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:12,253 1309999 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:13,005 1310751 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:537m
+2016-07-27 23:50:15,253 1312999 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:18,007 1315753 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:539m
+2016-07-27 23:50:18,253 1315999 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:21,253 1318999 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:23,013 1320759 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:542m
+2016-07-27 23:50:24,254 1322000 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:27,254 1325000 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:28,023 1325769 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:544m
+2016-07-27 23:50:30,254 1328000 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:33,150 1330896 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:546m
+2016-07-27 23:50:33,254 1331000 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:36,255 1334001 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:38,226 1335972 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:548m
+2016-07-27 23:50:39,255 1337001 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:42,255 1340001 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:43,226 1340972 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:550m
+2016-07-27 23:50:45,255 1343001 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:48,230 1345976 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:553m
+2016-07-27 23:50:48,255 1346001 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:51,255 1349001 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:53,244 1350990 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:555m
+2016-07-27 23:50:54,256 1352002 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:57,256 1355002 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:50:58,375 1356121 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:557m
+2016-07-27 23:51:00,256 1358002 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:03,256 1361002 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:03,437 1361183 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:559m
+2016-07-27 23:51:06,256 1364002 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:08,440 1366186 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:562m
+2016-07-27 23:51:09,257 1367003 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:12,256 1370002 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:13,577 1371323 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:564m
+2016-07-27 23:51:15,257 1373003 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:18,257 1376003 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:18,620 1376366 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:566m
+2016-07-27 23:51:21,257 1379003 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:23,626 1381372 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:568m
+2016-07-27 23:51:24,257 1382003 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:27,258 1385004 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:28,634 1386380 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:571m
+2016-07-27 23:51:30,258 1388004 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:33,258 1391004 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:33,658 1391404 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:573m
+2016-07-27 23:51:36,258 1394004 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:38,663 1396409 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:575m
+2016-07-27 23:51:39,258 1397004 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:42,259 1400005 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:43,668 1401414 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:577m
+2016-07-27 23:51:45,259 1403005 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:48,259 1406005 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:48,672 1406418 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:580m
+2016-07-27 23:51:51,259 1409005 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:53,811 1411557 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:582m
+2016-07-27 23:51:54,259 1412005 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:57,259 1415005 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:51:58,821 1416567 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:584m
+2016-07-27 23:52:00,259 1418005 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:03,260 1421006 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:03,823 1421569 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:586m
+2016-07-27 23:52:06,260 1424006 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:08,971 1426717 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:589m
+2016-07-27 23:52:09,260 1427006 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:12,260 1430006 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:13,978 1431724 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:591m
+2016-07-27 23:52:15,260 1433006 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:18,261 1436007 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:19,023 1436769 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:593m
+2016-07-27 23:52:21,261 1439007 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:24,047 1441793 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:595m
+2016-07-27 23:52:24,261 1442007 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:27,261 1445007 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:29,049 1446795 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:597m
+2016-07-27 23:52:30,261 1448007 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:33,262 1451008 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:34,189 1451935 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:600m
+2016-07-27 23:52:36,262 1454008 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:39,205 1456951 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:602m
+2016-07-27 23:52:39,262 1457008 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:42,262 1460008 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:44,208 1461954 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:604m
+2016-07-27 23:52:45,262 1463008 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:48,262 1466008 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:49,224 1466970 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:606m
+2016-07-27 23:52:51,263 1469009 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:54,225 1471971 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:609m
+2016-07-27 23:52:54,263 1472009 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:57,263 1475009 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:52:59,225 1476971 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:611m
+2016-07-27 23:53:00,263 1478009 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:03,263 1481009 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:04,227 1481973 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:613m
+2016-07-27 23:53:06,264 1484010 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:09,264 1487010 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:09,339 1487085 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:616m
+2016-07-27 23:53:12,264 1490010 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:14,362 1492108 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:618m
+2016-07-27 23:53:15,264 1493010 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:18,265 1496011 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:19,450 1497196 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:620m
+2016-07-27 23:53:21,265 1499011 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:24,265 1502011 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:24,453 1502199 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:622m
+2016-07-27 23:53:27,265 1505011 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:29,457 1507203 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:624m
+2016-07-27 23:53:30,265 1508011 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:33,265 1511011 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:34,457 1512203 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:627m
+2016-07-27 23:53:36,266 1514012 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:39,266 1517012 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:39,458 1517204 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:629m
+2016-07-27 23:53:42,266 1520012 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:44,590 1522336 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:631m
+2016-07-27 23:53:45,266 1523012 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:48,266 1526012 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:49,641 1527387 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:633m
+2016-07-27 23:53:51,266 1529012 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:54,267 1532013 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:54,645 1532391 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:636m
+2016-07-27 23:53:57,267 1535013 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:53:59,646 1537392 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:638m
+2016-07-27 23:54:00,267 1538013 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:03,267 1541013 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:04,646 1542392 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:640m
+2016-07-27 23:54:06,267 1544013 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:09,268 1547014 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:09,678 1547424 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:642m
+2016-07-27 23:54:12,268 1550014 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:14,678 1552424 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:645m
+2016-07-27 23:54:15,268 1553014 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:18,268 1556014 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:19,678 1557424 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:647m
+2016-07-27 23:54:21,268 1559014 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:24,268 1562014 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:24,684 1562430 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:649m
+2016-07-27 23:54:27,268 1565014 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:29,685 1567431 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:651m
+2016-07-27 23:54:30,269 1568015 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:33,269 1571015 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:34,708 1572454 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:653m
+2016-07-27 23:54:36,269 1574015 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:39,269 1577015 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:39,716 1577462 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:656m
+2016-07-27 23:54:42,270 1580016 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:44,827 1582573 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:658m
+2016-07-27 23:54:45,270 1583016 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:48,270 1586016 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:49,855 1587601 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:660m
+2016-07-27 23:54:51,270 1589016 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:54,270 1592016 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:54,866 1592612 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:663m
+2016-07-27 23:54:57,270 1595016 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:54:59,875 1597621 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:665m
+2016-07-27 23:55:00,271 1598017 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:03,271 1601017 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:04,907 1602653 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:667m
+2016-07-27 23:55:06,271 1604017 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:09,271 1607017 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:09,910 1607656 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:669m
+2016-07-27 23:55:12,271 1610017 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:14,915 1612661 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:671m
+2016-07-27 23:55:15,271 1613017 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:18,271 1616017 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:19,920 1617666 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:674m
+2016-07-27 23:55:21,272 1619018 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:24,272 1622018 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:25,057 1622803 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:676m
+2016-07-27 23:55:27,272 1625018 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:30,061 1627807 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:678m
+2016-07-27 23:55:30,272 1628018 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:33,272 1631018 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:35,113 1632859 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:680m
+2016-07-27 23:55:36,273 1634019 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:39,273 1637019 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:40,115 1637861 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:683m
+2016-07-27 23:55:42,273 1640019 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:45,117 1642863 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:685m
+2016-07-27 23:55:45,273 1643019 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:48,273 1646019 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:50,117 1647863 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:687m
+2016-07-27 23:55:51,274 1649020 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:54,274 1652020 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:55:55,120 1652866 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:689m
+2016-07-27 23:55:57,274 1655020 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:00,122 1657868 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:691m
+2016-07-27 23:56:00,274 1658020 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:03,274 1661020 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:05,122 1662868 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:694m
+2016-07-27 23:56:06,275 1664021 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:09,275 1667021 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:10,253 1667999 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:696m
+2016-07-27 23:56:12,275 1670021 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:15,271 1673017 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:698m
+2016-07-27 23:56:15,275 1673021 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:18,275 1676021 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:20,277 1678023 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:700m
+2016-07-27 23:56:21,275 1679021 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:24,276 1682022 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:25,292 1683038 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:702m
+2016-07-27 23:56:27,276 1685022 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:30,276 1688022 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:30,294 1688040 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:705m
+2016-07-27 23:56:33,276 1691022 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:35,294 1693040 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:707m
+2016-07-27 23:56:36,276 1694022 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:39,276 1697022 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:40,296 1698042 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:709m
+2016-07-27 23:56:42,277 1700023 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:45,277 1703023 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:45,297 1703043 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:711m
+2016-07-27 23:56:48,277 1706023 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:50,332 1708078 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:714m
+2016-07-27 23:56:51,277 1709023 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:54,277 1712023 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:56:55,454 1713200 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:716m
+2016-07-27 23:56:57,278 1715024 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:00,278 1718024 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:00,521 1718267 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:718m
+2016-07-27 23:57:03,278 1721024 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:05,525 1723271 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:720m
+2016-07-27 23:57:06,278 1724024 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:09,278 1727024 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:10,527 1728273 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:723m
+2016-07-27 23:57:12,279 1730025 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:15,279 1733025 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:15,528 1733274 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:725m
+2016-07-27 23:57:18,279 1736025 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:20,625 1738371 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:727m
+2016-07-27 23:57:21,279 1739025 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:24,279 1742025 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:25,684 1743430 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:729m
+2016-07-27 23:57:27,279 1745025 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:30,279 1748025 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:30,689 1748435 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:731m
+2016-07-27 23:57:33,280 1751026 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:35,689 1753435 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:734m
+2016-07-27 23:57:36,280 1754026 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:39,280 1757026 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:40,689 1758435 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:736m
+2016-07-27 23:57:42,280 1760026 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:45,280 1763026 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:45,691 1763437 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:738m
+2016-07-27 23:57:48,281 1766027 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:50,836 1768582 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 开始下载房间：67373, 已下载大小:740m
+2016-07-27 23:57:51,281 1769027 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:54,281 1772027 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:57,281 1775027 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-27 23:57:58,471 1776217 [pool-1-thread-1] ERROR i.g.h.douyuhelper.VideoDownloader - 房间下载出错！room:67373
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[na:1.8.0_74]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[na:1.8.0_74]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[na:1.8.0_74]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[na:1.8.0_74]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.SessionInputBufferImpl.read(SessionInputBufferImpl.java:195) ~[httpcore-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.IdentityInputStream.read(IdentityInputStream.java:95) ~[httpcore-4.3.3.jar:4.3.3]
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:137) ~[httpclient-4.3.6.jar:4.3.6]
+	at org.apache.http.conn.EofSensorInputStream.read(EofSensorInputStream.java:150) ~[httpclient-4.3.6.jar:4.3.6]
+	at io.github.hengyunabc.douyuhelper.VideoDownloader$1.run(VideoDownloader.java:104) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_74]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [na:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_74]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_74]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_74]
+2016-07-27 23:57:58,471 1776217 [pool-1-thread-1] INFO  i.g.h.douyuhelper.VideoDownloader - 结束下载房间：67373, url:http://tc-tct.douyucdn.cn/dyliveflv3/67373rrNoSptC9Tv.flv?wsAuth=fbc08c9fa84f69e5d79ac008e4f34d79&token=web-9007408-67373-a4ac391f7a638b720fe018281235cfff&logo=0&expire=0
+2016-07-27 23:57:58,471 1776217 [pool-1-thread-1] INFO  com.dy.bulletscreen.msg.ToolSub - *******************************null
+2016-07-27 23:58:00,282 1778028 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:03,281 1781027 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:09,282 1787028 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:15,282 1793028 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:21,283 1799029 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:27,283 1805029 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:33,283 1811029 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:39,284 1817030 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:45,284 1823030 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:51,284 1829030 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:58:57,285 1835031 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:03,285 1841031 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:09,286 1847032 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:15,286 1853032 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:21,286 1859032 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:27,287 1865033 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:33,287 1871033 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:39,287 1877033 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:45,288 1883034 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:51,288 1889034 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]
+2016-07-27 23:59:57,289 1895035 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[67373]

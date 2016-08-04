@@ -1,0 +1,2 @@
+http://hlsa.douyutv.com/live/762484rD1v3v9HWO_550/playlist.m3u8?wsSecret=5ad62d2c9a6c3e02658e60701ea5973b&wsTime=1469435299
+ http://tc-tct.douyucdn.cn/dyliveflv1/762484rD1v3v9HWO.flv?wsAuth=80da1fb6d917ac315b8bd29f9dff55e3&token=web-9007408-762484-0a7d4c248f94e984f50a624082a87178&logo=0&expire=0

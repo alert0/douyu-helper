@@ -1,0 +1,359 @@
+2016-07-24 14:15:25,772 224  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 14:15:25,874 326  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@6be46e8f: startup date [Sun Jul 24 14:15:25 CST 2016]; root of context hierarchy
+2016-07-24 14:57:21,303 200  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 14:57:21,400 297  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 14:57:21 CST 2016]; root of context hierarchy
+2016-07-24 14:57:57,876 36773 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:00,808 39705 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:01,229 40126 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:58:06,809 45706 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:07,286 46183 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:58:12,809 51706 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:12,964 51861 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:58:18,809 57706 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:18,913 57810 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:58:24,810 63707 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:25,021 63918 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:58:30,811 69708 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:30,900 69797 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:58:36,811 75708 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:36,921 75818 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:58:42,812 81709 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:42,931 81828 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:58:48,812 87709 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:48,959 87856 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:58:54,812 93709 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:58:54,866 93763 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:00,813 99710 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:00,997 99894 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:06,814 105711 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:07,050 105947 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:12,814 111711 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:12,964 111861 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:18,815 117712 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:20,629 119526 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:24,817 123714 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:28,343 127240 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:30,816 129713 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:30,983 129880 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:36,817 135714 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:36,851 135748 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:42,843 141740 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:43,134 142031 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:48,846 147743 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:50,190 149087 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 14:59:54,846 153743 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 14:59:56,440 155337 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:00,845 159742 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:02,120 161017 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:06,846 165743 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:08,124 167021 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:12,846 171743 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:14,474 173371 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:18,850 177747 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:20,135 179032 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:24,849 183746 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:26,139 185036 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:30,850 189747 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:32,497 191394 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:36,849 195746 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:38,088 196985 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:42,849 201746 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:44,102 202999 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:48,851 207748 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:50,380 209277 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:00:54,853 213750 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:00:56,253 215150 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:01:00,854 219751 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:01:02,208 221105 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:01:06,854 225751 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:01:08,336 227233 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:01:12,855 231752 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:01:14,214 233111 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:01:18,856 237753 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:01:20,185 239082 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://www.douyu.com/lapi/live/getPlay/122402
+2016-07-24 15:02:28,668 307565 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:02:31,650 310547 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:02:37,652 316549 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:02:43,652 322549 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:02:49,653 328550 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:02:55,661 334558 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:01,655 340552 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:07,655 346552 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:13,655 352552 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:19,656 358553 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:25,657 364554 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:31,659 370556 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:37,658 376555 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:43,659 382556 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:49,659 388556 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:03:55,660 394557 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:01,660 400557 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:07,661 406558 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:13,662 412559 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:19,663 418560 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:25,664 424561 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:31,664 430561 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:37,665 436562 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:43,665 442562 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:49,666 448563 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:04:55,672 454569 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:01,669 460566 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:07,670 466567 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:13,672 472569 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:19,677 478574 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:25,681 484578 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:31,672 490569 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:37,682 496579 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:43,676 502573 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:49,675 508572 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:05:55,679 514576 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:01,674 520571 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:07,677 526574 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:13,680 532577 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:19,690 538587 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:25,680 544577 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:31,678 550575 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:37,684 556581 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:43,692 562589 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:49,683 568580 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:06:55,684 574581 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:01,681 580578 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:07,683 586580 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:13,692 592589 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:19,689 598586 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:25,687 604584 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:31,688 610585 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:37,689 616586 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:43,690 622587 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:49,694 628591 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:07:55,690 634587 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:01,689 640586 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:07,694 646591 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:13,687 652584 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:19,692 658589 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:25,690 664587 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:31,692 670589 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:37,692 676589 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:43,697 682594 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:49,690 688587 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:08:55,695 694592 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:01,696 700593 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:07,702 706599 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:13,702 712599 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:19,698 718595 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:25,705 724602 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:31,697 730594 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:37,699 736596 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:43,698 742595 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:49,711 748608 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:09:55,701 754598 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:10:01,702 760599 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:10:07,698 766595 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:10:13,714 772611 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:10:19,705 778602 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:10:25,700 784597 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:10:31,704 790601 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:10:37,707 796604 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:10:43,706 802603 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:10:50,270 809167 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:01,177 820074 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:04,173 823070 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:10,182 829079 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:16,178 835075 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:22,179 841076 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:28,179 847076 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:34,180 853077 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:40,182 859079 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:46,181 865078 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:52,181 871078 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:11:58,182 877079 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:12:04,183 883080 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:12:10,184 889081 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:12:16,186 895083 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:12:22,186 901083 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:18:11,152 199  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:18:11,251 298  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 15:18:11 CST 2016]; root of context hierarchy
+2016-07-24 15:18:13,277 2324 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:16,218 5265 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:19,217 8264 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:22,218 11265 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:25,218 14265 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:28,217 17264 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:31,217 20264 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:34,217 23264 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:37,219 26266 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:40,216 29263 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[]
+2016-07-24 15:18:43,242 32289 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:18:46,221 35268 [nioEventLoopGroup-3-3] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:18:52,221 41268 [nioEventLoopGroup-3-5] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:18:58,225 47272 [nioEventLoopGroup-3-7] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:06,048 55095 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:09,060 58107 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:15,065 64112 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:21,061 70108 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:27,062 76109 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:33,064 82111 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:39,063 88110 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:45,063 94110 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:51,064 100111 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:19:57,066 106113 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:03,065 112112 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:09,066 118113 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:15,066 124113 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:24,058 133105 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:27,054 136101 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:33,055 142102 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:39,055 148102 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:45,056 154103 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:51,056 160103 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:20:57,056 166103 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:03,057 172104 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:09,058 178105 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:15,058 184105 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:21,058 190105 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:27,059 196106 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:33,060 202107 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:39,060 208107 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:45,060 214107 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:51,061 220108 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:21:57,062 226109 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:22:03,062 232109 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:22:09,063 238110 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:22:15,063 244110 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:22:21,064 250111 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:00,801 409848 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:03,799 412846 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:09,800 418847 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:15,800 424847 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:21,801 430848 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:27,802 436849 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:33,802 442849 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:39,803 448850 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:45,803 454850 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:25:51,804 460851 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:31:36,836 805883 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:31:39,822 808869 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:31:49,975 819022 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:32:03,113 832160 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:32:10,516 839563 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:32:13,501 842548 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:32:24,651 853698 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:33:35,143 924190 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:33:38,118 927165 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:33:48,331 937378 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:33:51,307 940354 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:34:52,511 1001558 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:35:01,965 1011012 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:35:04,949 1013996 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:35:12,568 1021615 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:35:21,009 1030056 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:36:48,444 1117491 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:36:51,419 1120466 [nioEventLoopGroup-3-8] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:37:00,798 1129845 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:37:17,086 1146133 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:37:24,069 1153116 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:37:27,060 1156107 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:37:38,568 1167615 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=fd6c948a53053c3c35c9552d59f1726a&token=web-9007408-122402-7594507d1845fc3a15ce70502e050c7e&logo=0&expire=0
+2016-07-24 15:37:49,010 1178057 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=5620fb6132473195cdb727a4f77353a7&token=web-9007408-122402-13cd1fda1de7da14853db212c122aa45&logo=0&expire=0
+2016-07-24 15:37:50,419 1179466 [nioEventLoopGroup-3-6] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:40:45,708 208  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:40:45,813 313  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 15:40:45 CST 2016]; root of context hierarchy
+2016-07-24 15:41:07,247 21747 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:41:10,214 24714 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:41:12,486 26986 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-24 15:41:12,486 26986 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=2157dc69e5c75af7ca429ff7d1966b2e&token=web-9007408-122402-7696a85957c48e3738a32e0c696b5896&logo=0&expire=0
+2016-07-24 15:41:17,917 32417 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:41:25,220 39720 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-24 15:41:25,220 39720 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=d760d8cb9863fa2218e52fd50d635ab8&token=web-9007408-122402-30812c65a9e69c847c2e6cbc0744d864&logo=0&expire=0
+2016-07-24 15:41:30,125 44625 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:41:32,125 46625 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-24 15:41:32,125 46625 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=e2e23076a4ad84a2468a46cad87c578c&token=web-9007408-122402-bdd26d7d102f7aa5af9419fb64cb1631&logo=0&expire=0
+2016-07-24 15:41:37,774 52274 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:44:15,106 235  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:44:15,225 354  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@184cf7cf: startup date [Sun Jul 24 15:44:15 CST 2016]; root of context hierarchy
+2016-07-24 15:44:15,665 794  [main] WARN  o.s.c.s.GenericXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'httpServer': Invocation of init method failed; nested exception is java.net.BindException: Address already in use: bind
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:136) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:408) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1566) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:539) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:755) ~[spring-beans-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757) ~[spring-context-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480) ~[spring-context-4.1.6.RELEASE.jar:4.1.6.RELEASE]
+	at io.github.hengyunabc.douyuhelper.HelperMain.main(HelperMain.java:18) [classes/:na]
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_74]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_74]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_74]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_74]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_74]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125) ~[netty-transport-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:485) ~[netty-transport-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1081) ~[netty-transport-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:502) ~[netty-transport-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:487) ~[netty-transport-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:904) ~[netty-transport-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198) ~[netty-transport-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:348) ~[netty-transport-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:357) ~[netty-common-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[netty-transport-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:111) ~[netty-common-4.0.27.Final.jar:4.0.27.Final]
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137) ~[netty-common-4.0.27.Final.jar:4.0.27.Final]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_74]
+2016-07-24 15:45:24,071 237  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:45:24,183 349  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@184cf7cf: startup date [Sun Jul 24 15:45:24 CST 2016]; root of context hierarchy
+2016-07-24 15:45:38,088 14254 [nioEventLoopGroup-3-2] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:46:01,122 37288 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-24 15:46:01,123 37289 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=c9da56dded6753d90b27d5f07909088a&token=web-9007408-122402-5e23e7d6e57a246c8d743dc469d2d7e3&logo=0&expire=0
+2016-07-24 15:51:50,588 386754 [nioEventLoopGroup-3-4] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 15:56:51,227 232  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:56:51,336 341  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@184cf7cf: startup date [Sun Jul 24 15:56:51 CST 2016]; root of context hierarchy
+2016-07-24 15:57:20,603 240  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:57:20,719 356  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@184cf7cf: startup date [Sun Jul 24 15:57:20 CST 2016]; root of context hierarchy
+2016-07-24 15:57:31,316 201  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:57:31,416 301  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 15:57:31 CST 2016]; root of context hierarchy
+2016-07-24 15:58:03,549 203  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:58:03,651 305  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 15:58:03 CST 2016]; root of context hierarchy
+2016-07-24 15:58:40,314 200  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:58:40,416 302  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 15:58:40 CST 2016]; root of context hierarchy
+2016-07-24 15:59:57,203 205  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 15:59:57,305 307  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 15:59:57 CST 2016]; root of context hierarchy
+2016-07-24 16:00:23,381 26383 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 16:00:26,329 29331 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 16:00:31,618 34620 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-24 16:00:31,619 34621 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=0bb30d4ed532542c829d92c280d10759&token=web-9007408-122402-4eef81684617a2f68c9124addb5f6e8d&logo=0&expire=0
+2016-07-24 16:00:36,871 39873 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 16:09:49,775 241  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 16:09:49,927 393  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 16:09:49 CST 2016]; root of context hierarchy
+2016-07-24 16:10:01,598 231  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 16:10:01,712 345  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@184cf7cf: startup date [Sun Jul 24 16:10:01 CST 2016]; root of context hierarchy
+2016-07-24 16:10:24,030 229  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 16:10:24,143 342  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@184cf7cf: startup date [Sun Jul 24 16:10:24 CST 2016]; root of context hierarchy
+2016-07-24 16:10:56,007 11717 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 16:10:56,145 11855 [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@184cf7cf: startup date [Sun Jul 24 16:10:56 CST 2016]; root of context hierarchy
+2016-07-24 16:11:12,003 3583 [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 16:11:12,140 3720 [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@184cf7cf: startup date [Sun Jul 24 16:11:12 CST 2016]; root of context hierarchy
+2016-07-24 16:12:02,250 201  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 16:12:02,347 298  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 16:12:02 CST 2016]; root of context hierarchy
+2016-07-24 16:13:42,152 217  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 16:13:42,255 320  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 16:13:42 CST 2016]; root of context hierarchy
+2016-07-24 16:14:43,913 205  [main] INFO  o.s.b.f.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring-context-helper.xml]
+2016-07-24 16:14:44,016 308  [main] INFO  o.s.c.s.GenericXmlApplicationContext - Refreshing org.springframework.context.support.GenericXmlApplicationContext@327471b5: startup date [Sun Jul 24 16:14:44 CST 2016]; root of context hierarchy
+2016-07-24 16:14:54,328 10620 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 16:14:57,233 13525 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 16:14:59,550 15842 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-24 16:14:59,550 15842 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=4a88c238676ef2305c44d8a5d8196dd5&token=web-9007408-122402-06c3d1e6f13e41baef3b25a3e93cb1cf&logo=0&expire=0
+2016-07-24 16:15:04,680 20972 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 16:15:10,839 27131 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-24 16:15:10,839 27131 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=61eddcf4b1be8c91cc312dddb0a43c53&token=web-9007408-122402-76828c2b575eea21bc3ceb9fb431b8f9&logo=0&expire=0
+2016-07-24 16:15:16,283 32575 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 16:15:18,893 35185 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-24 16:15:18,893 35185 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=801b95fcd3dae8e5039bc655f3bdd132&token=web-9007408-122402-2c50da7edd69548f2b9610c5a79c7c9d&logo=0&expire=0
+2016-07-24 16:15:24,659 40951 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 获取的要下载的房间列表：[122402]
+2016-07-24 16:15:26,498 42790 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - urllist
+2016-07-24 16:15:26,498 42790 [nioEventLoopGroup-3-1] INFO  i.g.h.douyuhelper.HttpServer - 提交的flv下载url：http://tc-tct.douyucdn.cn/dyliveflv3a/122402r47ir5s4fF.flv?wsAuth=c551e6aee7a720103bf87918e15c9400&token=web-9007408-122402-5d20d56f6a992a1708e043376fea6a9e&logo=0&expire=0
